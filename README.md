@@ -1,3 +1,3 @@
-Pre-School_2022Q2
+rsschool-cv
 
 https://ViktorZarvanskyi.github.io/rsschool-cv/cv
