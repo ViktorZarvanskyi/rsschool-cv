@@ -69,3 +69,44 @@ h1 {
     text-transform: uppercase;
 }
 
+main {
+    margin-top: 50px;
+}
+
+main .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+section ul {
+    list-style: none;
+    line-height: 35px;
+}
+
+h2 {
+    display: block;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.main_item a {
+    text-decoration: none;
+}
+
+section {
+    padding-bottom: 20px;
+    border-bottom:  2px solid rgba(102, 213, 176, 0.795);
+}
+
+section#education,
+section#languages {
+    border: none;
+}
+
+main ul img {
+    margin-right: 10px;
+    height: 20px;
+}
+
+
